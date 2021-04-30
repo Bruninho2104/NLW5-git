@@ -1,0 +1,3 @@
+[submodule "rc-slider"]
+	path = rc-slider
+	url = https://github.com/schrodinger/rc-slider
